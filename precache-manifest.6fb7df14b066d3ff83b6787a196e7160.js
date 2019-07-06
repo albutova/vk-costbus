@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/vk-costbus/static/js/runtime~main.8e96b4a3.js"
   },
   {
-    "revision": "98facaa60167aa0e8b9a",
-    "url": "/vk-costbus/static/js/main.98facaa6.chunk.js"
+    "revision": "61aa3ac6d2662b14a0f1",
+    "url": "/vk-costbus/static/js/main.61aa3ac6.chunk.js"
   },
   {
     "revision": "49b927ec1189740ec74c",
     "url": "/vk-costbus/static/js/2.49b927ec.chunk.js"
   },
   {
-    "revision": "98facaa60167aa0e8b9a",
+    "revision": "61aa3ac6d2662b14a0f1",
     "url": "/vk-costbus/static/css/main.229098c0.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/vk-costbus/static/css/2.012b87b6.chunk.css"
   },
   {
-    "revision": "c17ab87228f73c75a5185d05c70f5ba4",
+    "revision": "ab75565f2a974867b61401c62805a612",
     "url": "/vk-costbus/index.html"
   }
 ];
