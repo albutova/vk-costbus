@@ -4,15 +4,17 @@ import { View } from '@vkontakte/vkui';
 import '@vkontakte/vkui/dist/vkui.css';
 
 import Home from './panels/Home';
-import Persik from './panels/Persik';
 
 class App extends React.Component {
 	constructor(props) {
 		super(props);
 
+		var curDate = new Date(); 
+
 		this.state = {
 			activePanel: 'home',
 			fetchedUser: null,
+			currentTime: curDate.getHours() + ":" + curDate.getMinutes()
 		};
 	}
 
@@ -33,11 +35,11 @@ class App extends React.Component {
 		this.setState({ activePanel: e.currentTarget.dataset.to })
 	};
 
+
 	render() {
 		return (
 			<View activePanel={this.state.activePanel}>
-				<Home id="home" fetchedUser={this.state.fetchedUser} go={this.go} />
-				<Persik id="persik" go={this.go} />
+				<Home id="home" go={this.go} currentTime={this.state.currentTime} />
 			</View>
 		);
 	}
