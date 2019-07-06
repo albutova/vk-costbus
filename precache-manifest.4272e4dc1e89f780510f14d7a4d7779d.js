@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/vk-costbus/static/js/runtime~main.8e96b4a3.js"
   },
   {
-    "revision": "e71f9e25a8a906b9f06c",
-    "url": "/vk-costbus/static/js/main.e71f9e25.chunk.js"
+    "revision": "b758748afb0d92312390",
+    "url": "/vk-costbus/static/js/main.b758748a.chunk.js"
   },
   {
     "revision": "c48e878e68fd5c1eea30",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/vk-costbus/static/css/2.012b87b6.chunk.css"
   },
   {
-    "revision": "b234fe748ffc1ce292c2aed086b4a93f",
+    "revision": "bb06ec682b4d4b9df939fb318447f7d0",
     "url": "/vk-costbus/index.html"
   }
 ];
