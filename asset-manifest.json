@@ -1,13 +1,13 @@
 {
-  "main.js": "/vk-costbus/static/js/main.7f1f1ccb.chunk.js",
-  "main.js.map": "/vk-costbus/static/js/main.7f1f1ccb.chunk.js.map",
+  "main.js": "/vk-costbus/static/js/main.531c6636.chunk.js",
+  "main.js.map": "/vk-costbus/static/js/main.531c6636.chunk.js.map",
   "runtime~main.js": "/vk-costbus/static/js/runtime~main.8e96b4a3.js",
   "runtime~main.js.map": "/vk-costbus/static/js/runtime~main.8e96b4a3.js.map",
   "static/css/2.012b87b6.chunk.css": "/vk-costbus/static/css/2.012b87b6.chunk.css",
-  "static/js/2.3eaec189.chunk.js": "/vk-costbus/static/js/2.3eaec189.chunk.js",
-  "static/js/2.3eaec189.chunk.js.map": "/vk-costbus/static/js/2.3eaec189.chunk.js.map",
+  "static/js/2.439172b5.chunk.js": "/vk-costbus/static/js/2.439172b5.chunk.js",
+  "static/js/2.439172b5.chunk.js.map": "/vk-costbus/static/js/2.439172b5.chunk.js.map",
   "index.html": "/vk-costbus/index.html",
-  "precache-manifest.76a4e9d825a77b95a50c94dc76bf36f9.js": "/vk-costbus/precache-manifest.76a4e9d825a77b95a50c94dc76bf36f9.js",
+  "precache-manifest.995ffdde9b5611a5e0e3ecb1118eb85b.js": "/vk-costbus/precache-manifest.995ffdde9b5611a5e0e3ecb1118eb85b.js",
   "service-worker.js": "/vk-costbus/service-worker.js",
   "static/css/2.012b87b6.chunk.css.map": "/vk-costbus/static/css/2.012b87b6.chunk.css.map"
 }
