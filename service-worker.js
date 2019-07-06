@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/albutova/vk-costbus/precache-manifest.3d0e523695cb9d42950a2f54af4091d8.js"
+  "/vk-costbus/precache-manifest.6f6599f63445865abe87355159f18945.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/albutova/vk-costbus/index.html", {
+workbox.routing.registerNavigationRoute("/vk-costbus/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
