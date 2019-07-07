@@ -9,12 +9,9 @@ class App extends React.Component {
 	constructor(props) {
 		super(props);
 
-		var curDate = new Date(); 
-
 		this.state = {
 			activePanel: 'home',
-			fetchedUser: null,
-			currentTime: curDate.getHours() + ":" + curDate.getMinutes()
+			fetchedUser: null			
 		};
 	}
 
@@ -31,15 +28,11 @@ class App extends React.Component {
 		connect.send('VKWebAppGetUserInfo', {});
 	}
 
-	go = (e) => {
-		this.setState({ activePanel: e.currentTarget.dataset.to })
-	};
-
 
 	render() {
 		return (
 			<View activePanel={this.state.activePanel}>
-				<Home id="home" go={this.go} currentTime={this.state.currentTime} />
+				<Home id="home"/>
 			</View>
 		);
 	}
