@@ -1,14 +1,13 @@
 {
-  "main.js": "/vk-costbus/static/js/main.504e5a59.chunk.js",
-  "main.js.map": "/vk-costbus/static/js/main.504e5a59.chunk.js.map",
+  "main.js": "/vk-costbus/static/js/main.71a41740.chunk.js",
+  "main.js.map": "/vk-costbus/static/js/main.71a41740.chunk.js.map",
   "runtime~main.js": "/vk-costbus/static/js/runtime~main.8e96b4a3.js",
   "runtime~main.js.map": "/vk-costbus/static/js/runtime~main.8e96b4a3.js.map",
-  "static/css/2.626df791.chunk.css": "/vk-costbus/static/css/2.626df791.chunk.css",
-  "static/js/2.58e08abd.chunk.js": "/vk-costbus/static/js/2.58e08abd.chunk.js",
-  "static/js/2.58e08abd.chunk.js.map": "/vk-costbus/static/js/2.58e08abd.chunk.js.map",
+  "static/css/2.012b87b6.chunk.css": "/vk-costbus/static/css/2.012b87b6.chunk.css",
+  "static/js/2.96b1bc40.chunk.js": "/vk-costbus/static/js/2.96b1bc40.chunk.js",
+  "static/js/2.96b1bc40.chunk.js.map": "/vk-costbus/static/js/2.96b1bc40.chunk.js.map",
   "index.html": "/vk-costbus/index.html",
-  "precache-manifest.7d2bbdca62490080d071ca2bedbd94b3.js": "/vk-costbus/precache-manifest.7d2bbdca62490080d071ca2bedbd94b3.js",
+  "precache-manifest.b52d6ec98633d99af3a088a12ba8f4c2.js": "/vk-costbus/precache-manifest.b52d6ec98633d99af3a088a12ba8f4c2.js",
   "service-worker.js": "/vk-costbus/service-worker.js",
-  "static/css/2.626df791.chunk.css.map": "/vk-costbus/static/css/2.626df791.chunk.css.map",
-  "static/media/font-awesome.css": "/vk-costbus/static/media/fontawesome-webfont.fee66e71.woff"
+  "static/css/2.012b87b6.chunk.css.map": "/vk-costbus/static/css/2.012b87b6.chunk.css.map"
 }
