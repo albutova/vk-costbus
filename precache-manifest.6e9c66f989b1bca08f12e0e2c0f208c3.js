@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/vk-costbus/static/js/runtime~main.8e96b4a3.js"
   },
   {
-    "revision": "e90f161340b6b0bc8f2e",
-    "url": "/vk-costbus/static/js/main.e90f1613.chunk.js"
+    "revision": "f7d8c9192597f91645a6",
+    "url": "/vk-costbus/static/js/main.f7d8c919.chunk.js"
   },
   {
-    "revision": "eebfd47d783579c96861",
-    "url": "/vk-costbus/static/js/2.eebfd47d.chunk.js"
+    "revision": "59825de71846458edcb5",
+    "url": "/vk-costbus/static/js/2.59825de7.chunk.js"
   },
   {
-    "revision": "e90f161340b6b0bc8f2e",
+    "revision": "f7d8c9192597f91645a6",
     "url": "/vk-costbus/static/css/main.44ed3889.chunk.css"
   },
   {
-    "revision": "eebfd47d783579c96861",
+    "revision": "59825de71846458edcb5",
     "url": "/vk-costbus/static/css/2.012b87b6.chunk.css"
   },
   {
-    "revision": "9b53b999a9aa9c059817e1d75989a159",
+    "revision": "a511acf5a4a3739ea32481cbb2923ca6",
     "url": "/vk-costbus/index.html"
   }
 ];
